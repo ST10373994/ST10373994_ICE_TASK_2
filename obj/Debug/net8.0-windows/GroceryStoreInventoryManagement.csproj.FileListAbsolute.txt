@@ -1,0 +1,16 @@
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\bin\Debug\net8.0-windows\GroceryStoreInventoryManagement.exe
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\bin\Debug\net8.0-windows\GroceryStoreInventoryManagement.deps.json
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\bin\Debug\net8.0-windows\GroceryStoreInventoryManagement.runtimeconfig.json
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\bin\Debug\net8.0-windows\GroceryStoreInventoryManagement.dll
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\bin\Debug\net8.0-windows\GroceryStoreInventoryManagement.pdb
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\obj\Debug\net8.0-windows\GroceryStoreInventoryManagement.Form1.resources
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\obj\Debug\net8.0-windows\GroceryStoreInventoryManagement.csproj.GenerateResource.cache
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\obj\Debug\net8.0-windows\GroceryStoreInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\obj\Debug\net8.0-windows\GroceryStoreInventoryManagement.AssemblyInfoInputs.cache
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\obj\Debug\net8.0-windows\GroceryStoreInventoryManagement.AssemblyInfo.cs
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\obj\Debug\net8.0-windows\GroceryStoreInventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\obj\Debug\net8.0-windows\GroceryStoreInventoryManagement.dll
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\obj\Debug\net8.0-windows\refint\GroceryStoreInventoryManagement.dll
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\obj\Debug\net8.0-windows\GroceryStoreInventoryManagement.pdb
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\obj\Debug\net8.0-windows\GroceryStoreInventoryManagement.genruntimeconfig.cache
+C:\Users\shera\source\repos\GroceryStoreInventoryManagement\obj\Debug\net8.0-windows\ref\GroceryStoreInventoryManagement.dll
